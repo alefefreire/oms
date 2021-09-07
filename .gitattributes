@@ -1,0 +1,1 @@
+notebooks/assets/individuos_espec.csv filter=lfs diff=lfs merge=lfs -text
